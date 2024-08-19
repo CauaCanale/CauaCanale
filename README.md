@@ -8,7 +8,7 @@ Eu sou o Cauã canale, tenho 16 anos e sou estudante de T.I no Senac de American
 
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-321435?style=for-the-badge&logo=JAVASCRIPT&logoColor=YELLOW)&nbsp;
 
-## Tools:
+## 🖥 Tools:
 
 ![GITHUB](https://img.shields.io/badge/GITHUB-321435?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-321435?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=blue)&nbsp;
@@ -17,7 +17,7 @@ Eu sou o Cauã canale, tenho 16 anos e sou estudante de T.I no Senac de American
 ![ChatGPT](https://img.shields.io/badge/chatGPT-321435?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
 
 
-## 🖥 Studying at the moment:
+## 📚 Studying at the moment:
 
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-321435?style=for-the-badge&logo=JAVASCRIPT&logoColor=YELLOW)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-321435?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
