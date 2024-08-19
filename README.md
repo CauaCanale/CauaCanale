@@ -1,2 +1,2 @@
-## Hello 
-
+# Hello 
+Eu sou o Cauã canale, tenho 16 anos e sou estudante de T.I no Senac de Americana,  estou aprendendo algumas linguagens de programação e também muito sobre HARDWARE e Redes, ainda me descobrindo no mundo de profissões, ainda estou sem trabalhar nas areas de T.I porque estou no começo da minha carreira e jornada de vida, mas estou estudando bastante e me dedicando todos os dias, para algum dia estar pronto para correr atrás do meu primeiro estágio.
