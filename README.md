@@ -2,3 +2,7 @@
 
 # 👋 Hi there 
 Eu sou o Cauã canale, tenho 16 anos e sou estudante de T.I no Senac de Americana,  estou aprendendo algumas linguagens de programação e também muito sobre hardware e Redes, ainda me descobrindo no mundo das profissões.
+
+## Conhecimentos:
+
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-321435?style=for-the-badge&logo=JAVASCRIPT&logoColor=YELLOW)&nbsp;
