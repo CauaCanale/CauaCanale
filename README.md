@@ -24,3 +24,7 @@ Eu sou o Cauã canale, tenho 16 anos e sou estudante de T.I no Senac de American
 
 ## 🌐 Socials: 
 
+![Gmail](https://img.shields.io/badge/Gmail-321435?style=for-the-badge&logo=gmail&logoColor=white)&nbsp;
+![Instagram](https://img.shields.io/badge/Instagram-321435?.svg?style=for-the-badge&logo=Instagram&logoColor=white)&nbsp;
+![LinkedIn](https://img.shields.io/badge/linkedin-321435?.svg?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;
+![Discord](https://img.shields.io/badge/Discord-321435?.svg?style=for-the-badge&logo=discord&logoColor=white)&nbsp;
