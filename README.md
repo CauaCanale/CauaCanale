@@ -14,7 +14,7 @@ Eu sou o Cauã canale, tenho 16 anos e sou estudante de T.I no Senac de American
 ![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-321435?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=blue)&nbsp;
 ![CANVA](https://img.shields.io/badge/CANVA-321435.svg?&style=for-the-badge&logo=Canva&logoColor=cyan)&nbsp;
 ![FIGMA](https://img.shields.io/badge/FIGMA-321435?style=for-the-badge&logo=figma&logoColor=orange)&nbsp;
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-321435?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
 
 
 ## 🖥 Estudando no momento:
