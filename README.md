@@ -29,7 +29,7 @@ Eu sou o Cauã canale, tenho 16 anos e sou estudante de T.I no Senac de American
 ![LinkedIn](https://img.shields.io/badge/LINKEDIN-321435?style=for-the-badge&logo=linkedin&logoColor=blue)&nbsp;
 ![Discord](https://img.shields.io/badge/DISCORD-321435?style=for-the-badge&logo=discord&logoColor=wcyan)&nbsp;
 
-<div align="center">
+
   <a href="https://github.com/Cauacanale"></a>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CauaCanale&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
