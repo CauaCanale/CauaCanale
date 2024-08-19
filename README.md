@@ -28,3 +28,6 @@ Eu sou o Cauã canale, tenho 16 anos e sou estudante de T.I no Senac de American
 ![Instagram](https://img.shields.io/badge/INSTAGRAM-321435?style=for-the-badge&logo=instagram&logoColor=purple)&nbsp;
 ![LinkedIn](https://img.shields.io/badge/LINKEDIN-321435?style=for-the-badge&logo=linkedin&logoColor=blue)&nbsp;
 ![Discord](https://img.shields.io/badge/DISCORD-321435?style=for-the-badge&logo=discord&logoColor=wcyan)&nbsp;
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Downzin01&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+      <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Downzin01&layout=compact&langs_count=7&theme=github_dark" alt="Top Languages"/>
