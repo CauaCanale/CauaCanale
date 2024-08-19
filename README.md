@@ -34,3 +34,7 @@ Eu sou o Cauã canale, tenho 16 anos e sou estudante de T.I no Senac de American
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cauacanale&show_icons=true&theme=radical"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaCanale&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+<br>
+<div style="display: inline_block">
