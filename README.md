@@ -23,12 +23,11 @@ Eu sou o Cauã canale, tenho 16 anos e sou estudante de T.I no Senac de American
 
 ## 🌐 Socials: 
 
-[![Gmail](https://img.shields.io/badge/GMAIL-321435?style=for-the-badge&logo=gmail&logoColor=red)]&nbsp;
+[![Gmail](https://img.shields.io/badge/GMAIL-321435?style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/0/#inbox)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-321435?style=for-the-badge&logo=instagram&logoColor=purple)](https://www.instagram.com/caua.canale/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-321435?style=for-the-badge&logo=linkedin&logoColor=blue)]&nbsp;
-[![Discord](https://img.shields.io/badge/DISCORD-321435?style=for-the-badge&logo=discord&logoColor=wcyan)]&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-321435?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/cau%C3%A3-canale-651317312/)
 
-
+<div>
   <a href="https://github.com/Cauacanale"></a>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CauaCanale&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
