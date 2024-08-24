@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=670B71&height=120&section-header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section-header"/>
 
 ## 👋 Hi there
 Eu sou o Cauã canale, tenho 16 anos e sou estudante de T.I no Senac de Americana,  estou aprendendo algumas linguagens de programação e também muito sobre hardware e Redes, ainda me descobrindo no mundo das profissões.
@@ -27,9 +27,9 @@ Eu sou o Cauã canale, tenho 16 anos e sou estudante de T.I no Senac de American
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=purple)](https://www.instagram.com/caua.canale/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/cau%C3%A3-canale-651317312/)
 
-<div>
-  <a href="https://github.com/Cauacanale"></a>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CauaCanale&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CauaCanale&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" alt="Caua Status" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaCanale&layout=compact&hide_border=true&title_color=8A2BE2&text_color=8A2BE2&bg_color=0d1117" />
 </div>
 
 <br>
