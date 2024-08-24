@@ -5,27 +5,27 @@ Eu sou o Cauã canale, tenho 16 anos e sou estudante de T.I no Senac de American
 
 ## 💫 Languages:
 
-![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-321435?style=for-the-badge&logo=JAVASCRIPT&logoColor=YELLOW)&nbsp;
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-0D1117?style=for-the-badge&logo=JAVASCRIPT&logoColor=YELLOW)&nbsp;
 
 ## 🖥 Tools:
 
-![GITHUB](https://img.shields.io/badge/GITHUB-321435?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-321435?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=blue)&nbsp;
-![CANVA](https://img.shields.io/badge/CANVA-321435.svg?&style=for-the-badge&logo=Canva&logoColor=cyan)&nbsp;
-![FIGMA](https://img.shields.io/badge/FIGMA-321435?style=for-the-badge&logo=figma&logoColor=orange)&nbsp;
-![ChatGPT](https://img.shields.io/badge/chatGPT-321435?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
+![GITHUB](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-0D1117?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=blue)&nbsp;
+![CANVA](https://img.shields.io/badge/CANVA-0D1117.svg?&style=for-the-badge&logo=Canva&logoColor=cyan)&nbsp;
+![FIGMA](https://img.shields.io/badge/FIGMA-0D1117?style=for-the-badge&logo=figma&logoColor=orange)&nbsp;
+![ChatGPT](https://img.shields.io/badge/chatGPT-0D1117?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
 
 
 ## 📚 Studying at the moment:
 
-![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-321435?style=for-the-badge&logo=JAVASCRIPT&logoColor=YELLOW)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-321435?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-0D1117?style=for-the-badge&logo=JAVASCRIPT&logoColor=YELLOW)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
 
 ## 🌐 Socials: 
 
-[![Gmail](https://img.shields.io/badge/GMAIL-321435?style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/0/#inbox)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-321435?style=for-the-badge&logo=instagram&logoColor=purple)](https://www.instagram.com/caua.canale/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-321435?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/cau%C3%A3-canale-651317312/)
+[![Gmail](https://img.shields.io/badge/GMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/0/#inbox)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=purple)](https://www.instagram.com/caua.canale/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/cau%C3%A3-canale-651317312/)
 
 <div>
   <a href="https://github.com/Cauacanale"></a>
