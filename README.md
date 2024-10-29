@@ -15,8 +15,6 @@ Me chamo Cauã Canale, tenho 16 anos, sou estudante de T.I no Senac de Americana
 ![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-0D1117?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=blue)&nbsp;
 ![CANVA](https://img.shields.io/badge/CANVA-0D1117.svg?&style=for-the-badge&logo=Canva&logoColor=cyan)&nbsp;
 ![FIGMA](https://img.shields.io/badge/FIGMA-0D1117?style=for-the-badge&logo=figma&logoColor=orange)&nbsp;
-![ChatGPT](https://img.shields.io/badge/chatGPT-0D1117?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
-
 
 ## 📚 Studying at the moment:
 
