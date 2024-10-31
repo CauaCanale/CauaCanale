@@ -30,7 +30,7 @@ Me chamo Cauã Canale, tenho 16 anos, sou estudante de T.I no Senac de Americana
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CauaCanale&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" alt="Caua Status" /> 
-  <img width="70%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaCanale&layout=compact&hide_border=true&title_color=8A2BE2&text_color=8A2BE2&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaCanale&layout=compact&hide_border=true&title_color=8A2BE2&text_color=8A2BE2&bg_color=0d1117" />
 </div>
 
 <br>
