@@ -19,6 +19,8 @@ Meu nome é Cauã Canale e tenho 17 anos, sou estudante de TI no Senac de Americ
 ## 📚 Studying at the moment:
 
 
+
+
 ## 🌐 Socials: 
 
 [![Gmail](https://img.shields.io/badge/GMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/0/#inbox)
