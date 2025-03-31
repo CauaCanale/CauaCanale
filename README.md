@@ -11,10 +11,12 @@ Meu nome é Cauã Canale e tenho 17 anos, sou estudante de TI no Senac de Americ
 
 ## 🖥 Tools:
 
+![MySQL](https://img.shields.io/badge/MYSQL-321435?style=for-the-badge&logo=mysql&logoColor=blue)
 ![GITHUB](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-0D1117?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=blue)&nbsp;
 ![CANVA](https://img.shields.io/badge/CANVA-0D1117.svg?&style=for-the-badge&logo=Canva&logoColor=cyan)&nbsp;
 ![FIGMA](https://img.shields.io/badge/FIGMA-0D1117?style=for-the-badge&logo=figma&logoColor=orange)&nbsp;
+
 
 ## 📚 Studying at the moment:
 
