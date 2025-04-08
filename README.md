@@ -16,14 +16,12 @@ Meu nome é Cauã Canale e tenho 17 anos, sou estudante de TI no Senac de Americ
 ![FIGMA](https://img.shields.io/badge/FIGMA-0D1117?style=for-the-badge&logo=figma&logoColor=orange)&nbsp;
 
 
-## 📚 Studying at the moment:
+## 📚 ESTUDANDO NO MOMENTO:
 
-
-
+<img src="https://skillicons.dev/icons?i=php" alt="PHP" />
 
 ## 🌐 Socials: 
 
-[![Gmail](https://img.shields.io/badge/GMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/0/#inbox)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=purple)](https://www.instagram.com/caua.canale/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/cau%C3%A3-canale-651317312/)
 
