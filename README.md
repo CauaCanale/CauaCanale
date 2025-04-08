@@ -1,13 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section-header"/>
 
-## 👋 Hi there
+## 👋 SOBRE MIM
 Meu nome é Cauã Canale e tenho 17 anos, sou estudante de TI no Senac de Americana, estou aprendendo algumas linguagens de programação e também muito sobre hardware e Redes, ainda me descobrindo no mundo das profissões.
 
-## 💫 Languages:
+## 💫 CONHECIMENTOS:
 
-![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-0D1117?style=for-the-badge&logo=JAVASCRIPT&logoColor=YELLOW)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=skyblue)&nbsp;
+ <img src="https://skillicons.dev/icons?i=html,css,javascript,cs,mysql" alt="HTML, CSS, JavaScript, C#, MySQL, PHP " />
 
 ## 🖥 Tools:
 
