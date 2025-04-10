@@ -9,7 +9,7 @@ Meu nome é Cauã Canale e tenho 17 anos, sou estudante de TI no Senac de Americ
 
 ## Ferramentas:
  
- <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,github,git,bootstrap,arduino" alt=", VS Code, Figma, GitHub, Git, Bootstrap, Arduino,ps" />
+ <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,github,git,bootstrap,arduino,Ps" alt=", VS Code, Figma, GitHub, Git, Bootstrap, Arduino, Ps" />
  
 ## 📚 ESTUDANDO NO MOMENTO:
 
