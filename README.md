@@ -25,7 +25,6 @@ Meu nome é Cauã Canale e tenho 17 anos, sou estudante de T.I no Senac de Ameri
   <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaCanale&layout=compact&hide_border=true&title_color=8A2BE2&text_color=8A2BE2&bg_color=0d1117" />
 </div>
 
-<br>
 <div style="display: inline_block">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
