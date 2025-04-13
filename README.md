@@ -1,13 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section-header"/>
 
 ## 👋 SOBRE MIM
-Meu nome é Cauã Canale e tenho 17 anos, sou estudante de TI no Senac de Americana, estou aprendendo algumas linguagens de programação e também muito sobre hardware e Redes, ainda me descobrindo no mundo das profissões.
+Meu nome é Cauã Canale e tenho 17 anos, sou estudante de T.I no Senac de Americana, estou aprendendo algumas linguagens de programação e também muito sobre hardware e Redes, ainda me descobrindo no mundo das profissões.
 
 ## 💫 CONHECIMENTOS:
 
  <img src="https://skillicons.dev/icons?i=html,css,javascript,cs,mysql" alt="HTML, CSS, JavaScript, C#, MySQL, PHP " />
 
-## Ferramentas:
+## 🧰 Ferramentas:
  
  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,github,git,bootstrap,arduino,ps" alt=", VS Code, Figma, GitHub, Git, Bootstrap, Arduino, Ps" />
  
