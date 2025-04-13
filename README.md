@@ -17,7 +17,6 @@ Meu nome é Cauã Canale e tenho 17 anos, sou estudante de T.I no Senac de Ameri
 
 ## 🌐 REDES SOCIAIS: 
 
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=purple)](https://www.instagram.com/caua.canale/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=purple)](https://www.linkedin.com/in/cau%C3%A3-canale-651317312/)
 
 <div align="center">  
